@@ -6,6 +6,7 @@ let number = 5;
 let num1 = false;
 // console.log(type of num1);
 
+
 // console.log (number(num1));
 // console.log (type number(num1));
 
